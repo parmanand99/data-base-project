@@ -16,6 +16,7 @@ The details include:
 • it’s verification authority
 
 After ticket booking ,the details shown are:
+
 • Passenger id
 • Passenger name
 • Passenger Travel date
@@ -31,6 +32,7 @@ After ticket booking ,the details shown are:
 •Ticket id
 
 End user expectations:
+
 • user can see bus schedule
 • users can search buses from given origin to given destination
 • users can see fare details
